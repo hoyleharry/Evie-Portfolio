@@ -8,6 +8,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Made with Love by Harry. [Instagram](https://www.instagram.com/harry._.hoyle)
+💙 Made with Love by[Instagram.](https://www.instagram.com/harry._.hoyle)
 
 
