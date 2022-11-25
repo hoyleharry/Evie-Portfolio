@@ -1,8 +1,7 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://www.instagram.com/harry._.hoyle
+https://github.com/hoyleharry
 
 home__description
 High level experience in web design and development knowledge, producing quality work.
@@ -33,7 +32,7 @@ Website adaptable to all devices, with ui components and animated interactions.
 
 * PROJECT
 project__description
-Contact me now and get a 30% discount on your new project.
+Contact me now and get a 20% discount on your new project.
 
 
 * TESTIMONIAL
@@ -43,8 +42,8 @@ I get a good impression, I carry out my project with all the possible quality an
 
 * FOOTER
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://www.instagram.com/harry._.hoyle
+https://www.github.com/hoyleharry
+
 
 
